@@ -3,7 +3,7 @@
 ## How to Install
 
 ```sh
-npx degit francmarin98/ts-vue-simple-journal
+npx degit francmarin98/vue-simple-journal-ts
 ```
 
 ```sh
